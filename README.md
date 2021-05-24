@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/GuillermoAmbroggio/GuillermoAmbroggio/main/assets/portGit.png)
+
 <h1 align="center">Hi 👋, I'm Guillermo Ambroggio</h1>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 
