@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/GuillermoAmbroggio/GuillermoAmbroggio/main/assets/portGit.png)
 
-<h1 align="left">I'm Guillermo Ambroggio</h1>
-<h3 align="left">A passionate full stack developer from Cordoba, Argentina.</h3>
+<h1 align="left">I'm Guillermo Ambroggio 👋</h1>
+<h3 align="left">Graduated in Civil Engineering and Full Stack developer, I develop React and React Native applications, I also develop APIs with Express.js & Node.js using TypeScript or JavaScript, I am also passionate about investments in cryptocurrencies and the stock market.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
