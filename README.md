@@ -11,10 +11,9 @@
    🚀 <a href="https://play.google.com/store/apps/details?id=mx.vitau.androidvitau" target="_blank">Vitau App (PlayStore)</a> 🚀
  
    🚀 <a href="https://apps.apple.com/mx/app/vitau-farmacia-digital/id1560696284" target="_blank">Vitau App (AppStore)</a> 🚀
-   
+   <br />
 - Contact me:
-   
-  <img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" alt="gmail" width="20" height="20"/> <p>guillermoambroggio@gmail.com </p>
+   ✉️ <p>guillermoambroggio@gmail.com </p>
 <br />
 <br />
 
