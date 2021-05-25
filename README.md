@@ -13,7 +13,7 @@
    🚀 <a href="https://apps.apple.com/mx/app/vitau-farmacia-digital/id1560696284" target="_blank">Vitau App (AppStore)</a> 🚀
    
    <br />
-- Contact me:
+- <h4>Contact me:</h4>
 
    ✉️  guillermoambroggio@gmail.com
    
@@ -21,8 +21,6 @@
    
    :fax: <a href="https://www.linkedin.com/in/guillermoambroggio/" target="_blank" rel="noopener">https ://www.linkedin.com/in/guillermoambroggio/</a>
    
-[link]("https://www.linkedin.com/in/guillermoambroggio/"){:target="_blank"}
-[link](https://www.linkedin.com/in/guillermoambroggio/){:target="_blank"}
 <br />
 <br />
 
