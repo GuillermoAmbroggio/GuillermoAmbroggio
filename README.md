@@ -21,7 +21,8 @@
    
    :fax: <a href="https://www.linkedin.com/in/guillermoambroggio/" target="_blank" rel="noopener">https ://www.linkedin.com/in/guillermoambroggio/</a>
    
-
+[link]("https://www.linkedin.com/in/guillermoambroggio/"){:target="_blank"}
+[link](https://www.linkedin.com/in/guillermoambroggio/){:target="_blank"}
 <br />
 <br />
 
