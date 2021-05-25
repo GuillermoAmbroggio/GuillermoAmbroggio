@@ -14,7 +14,7 @@
    
 - Contact me:
    
-    <p> <img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" alt="cypress" width="40" height="40"/> guillermoambroggio@gmail.com </p>
+  <img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" alt="gmail" width="20" height="20"/> <p>guillermoambroggio@gmail.com </p>
 <br />
 <br />
 
