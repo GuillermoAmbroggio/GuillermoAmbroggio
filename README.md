@@ -17,9 +17,9 @@
 
    ✉️  guillermoambroggio@gmail.com
    
-   :mailbox: <a href="https://www.guillermoambroggio.com.ar/" target="_blank">https://www.guillermoambroggio.com.ar/</a>
+   :mailbox: <a href="https://www.guillermoambroggio.com.ar/" target="_blank">https: //www.guillermoambroggio.com.ar/</a>
    
-   :fax: https://www.linkedin.com/in/guillermoambroggio/
+   :fax: <a href="https://www.linkedin.com/in/guillermoambroggio/" target="_blank">https ://www.linkedin.com/in/guillermoambroggio/</a>
 <br />
 <br />
 
