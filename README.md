@@ -18,6 +18,8 @@
    ✉️  guillermoambroggio@gmail.com
    
    :mailbox: <a href="https://www.guillermoambroggio.com.ar/" target="_blank">https://www.guillermoambroggio.com.ar/</a>
+   
+   :fax: https://www.linkedin.com/in/guillermoambroggio/
 <br />
 <br />
 
