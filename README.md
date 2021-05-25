@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/GuillermoAmbroggio/GuillermoAmbroggio/main/assets/portGit.png)
 
-<h1 align="center">Hi 👋, I'm Guillermo Ambroggio</h1>
-<h3 align="center">A passionate full stack developer from Argentina</h3>
+<h1 align="left">I'm Guillermo Ambroggio</h1>
+<h3 align="left">A passionate full stack developer from Cordoba, Argentina.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
