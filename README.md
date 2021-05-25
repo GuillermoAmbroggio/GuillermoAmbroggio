@@ -1,17 +1,16 @@
 ![](https://raw.githubusercontent.com/GuillermoAmbroggio/GuillermoAmbroggio/main/assets/portGit.png)
 
-<h1 align="center">I'm Guillermo Ambroggio 👋</h1>
-<br />
+<h1 align="center">I'm Guillermo Ambroggio 👋</h1><br />
 <h3 align="center">Graduated in Civil Engineering and Full Stack developer, I develop React and React Native applications, I also develop APIs with Express.js & Node.js using TypeScript or JavaScript, I am also passionate about investments in cryptocurrencies and the stock market.</h3>
 <br />
 <br />
-s
+
 
 - <h4> I’m currently working on <a href="https://vitau.mx/" target="_blank"> Vitau </a> with Vitau APP:</h4>
  
-🚀 <a href="https://play.google.com/store/apps/details?id=mx.vitau.androidvitau" target="_blank">Vitau App (PlayStore)</a> 🚀
+   🚀 <a href="https://play.google.com/store/apps/details?id=mx.vitau.androidvitau" target="_blank">Vitau App (PlayStore)</a> 🚀
  
-🚀 <a href="https://apps.apple.com/mx/app/vitau-farmacia-digital/id1560696284" target="_blank">Vitau App (AppStore)</a> 🚀
+   🚀 <a href="https://apps.apple.com/mx/app/vitau-farmacia-digital/id1560696284" target="_blank">Vitau App (AppStore)</a> 🚀
 
 
 
