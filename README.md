@@ -20,6 +20,8 @@
    :mailbox: <a href="https://www.guillermoambroggio.com.ar/" target="_blank">https: //www.guillermoambroggio.com.ar/</a>
    
    :fax: <a href="https://www.linkedin.com/in/guillermoambroggio/" target="_blank">https ://www.linkedin.com/in/guillermoambroggio/</a>
+   
+   [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 <br />
 <br />
 
